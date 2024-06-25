@@ -2,7 +2,6 @@
 
 A simple phpIPAM API helper script for finding possible subnets of the given IP address.
 
-
 ## Usage
 
 1. Create `~/.ipam/token.json`
