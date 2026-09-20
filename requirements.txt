@@ -1,2 +1,2 @@
 click~=8.5
-urllib3~=2.7
+urllib3~=2.8
